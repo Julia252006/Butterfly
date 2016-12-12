@@ -1,9 +1,9 @@
-## JavaScript
+## My Work Page
 
 <span>A simple JavaScript project
 
 ```Javascript
-document.write('<h1>Hello, JavaScript!</h1>');
+document.write('<h1>My Work Page!</h1>');
 ```
 
 <span>Project is published at:
